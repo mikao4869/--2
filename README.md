@@ -27,7 +27,7 @@ Protocol :
 
    internet Protocol로 클라이언트와 서버가 네트워크 상에서 정보를 주고 받을때 사용하는 통신 규약이다
 
-   OSI Network Layer에서 reciever의 주소를 지정(IP주소)하고 패킷 분할, 조립을 담당한다. IP 프로토콜에서 신뢰성을 추가하기 위해 TCP가 생겨남.
+   OSI Network Layer에서 reciever의 주소를 지정(IP주소)하고 패킷 분할, 조립을 담당한다. IP 프로토콜에서 신뢰성을 추가하기 위해 TCP가 생겨났다
 
 
 
